@@ -27,5 +27,6 @@ El proyecto está desarrollado en **Java** con el framework **Spring**, utilizan
 
 📝 Los datos obtenidos se almacenan en `PostgreSQL` una base de datos local para futuras consultas sin conexión.
 
-🧑‍💻 Autor
+## 🧑‍💻 Autor
+
 Creado con ❤️ por David Bonilla
